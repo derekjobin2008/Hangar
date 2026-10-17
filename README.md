@@ -1,4 +1,4 @@
-# Hangar
+# Hanger
 
 A voice-first logbook copilot for general aviation mechanics. Speak what you did;
 it comes back as a formatted maintenance record entry you can review, sign, and export.
